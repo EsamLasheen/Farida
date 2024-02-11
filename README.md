@@ -1,5 +1,6 @@
 # Farida
 **AI Health Companion for Mexico: Check Your Balance with Frida.py**
+![Frida](Farida.jpg)
 
 Frida.py is a Python script leveraging artificial intelligence (AI) to assist you in leading a healthy life. Frida.py can:
 
