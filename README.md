@@ -1,6 +1,7 @@
 # Farida
 **AI Health Companion for Mexico: Check Your Balance with Frida.py**
 ![Frida](Farida.jpg)
+
 Frida.py es un script de Python que aprovecha la inteligencia artificial (IA) para ayudarte a llevar una vida saludable. Frida.py puede:
 
 🤖 **Calcular tu Índice de Masa Corporal (IMC):** Utilizando tu información personal como altura y peso, Frida.py calcula tu IMC.
