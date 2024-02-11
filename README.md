@@ -1,13 +1,15 @@
 # Farida
-Mexico's AI amigo: Revisa tu equilibrio con Frida.py
+**AI Health Companion for Mexico: Check Your Balance with Frida.py**
 
-Frida.py es un script de Python que utiliza inteligencia artificial (IA) para ayudarte a vivir una vida saludable. Frida.py puede:
+Frida.py is a Python script leveraging artificial intelligence (AI) to assist you in leading a healthy life. Frida.py can:
 
-🤖 Calcula tu índice de masa corporal (IMC): Frida.py utilizará tu información personal, como altura y peso, para calcular tu IMC.
-🍏 Brindar consejos de salud: Con base en tu IMC, Frida.py te brindará consejos personalizados para ayudarte a alcanzar tus objetivos de salud.
-📊 Realice un seguimiento de su progreso: Puede utilizar Frida.py para realizar un seguimiento de su progreso a lo largo del tiempo y monitorear la mejora de su salud.
+🤖 **Calculate your Body Mass Index (BMI):** Utilizing your personal information such as height and weight, Frida.py computes your BMI.
 
-Requisitos operativos:
-🐍 python3
-🤖 tgpt
+🍏 **Provide health advice:** Based on your BMI, Frida.py offers personalized advice to help you achieve your health goals.
+
+📊 **Track your progress:** You can use Frida.py to monitor your progress over time and track improvements in your health.
+
+**Operational Requirements:**
+- 🐍 Python3
+- 🤖 TGPT (Transformative Generative Pre-trained Transformer)
 
